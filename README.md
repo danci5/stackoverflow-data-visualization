@@ -18,8 +18,3 @@ All Stack Overflow user contributions are licensed under CC-BY-SA 3.0 with attri
 
 ### Intro presentation
 <https://docs.google.com/presentation/d/1dicHQIDSl1sfaJeti8yqHeUuQEoyukUjned4LvgjPOI/edit#slide=id.gc6f73a04f_0_0>
-
-### Team members
-[Kristina Miklasova](https://github.com/tina-M)  
-[Daniel Homola](https://github.com/danci5)
-
