@@ -1,7 +1,22 @@
 /* Slide Titles */
 h1 {
-    color: black;
     margin-top: 100px;
     text-align: center;
     padding-top: 100;
+}
+
+#title {
+  color: #F48024;
+}
+#nextsteps {
+   color: #F48024;
+}
+
+.emphasized {
+  font-size: 1.5em; 
+
+}
+
+body {
+    background-color: #AACCFF;
 }
